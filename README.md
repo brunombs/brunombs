@@ -1,4 +1,4 @@
-## Olá, me chamo Bruno Malaquias! 
+## Olá, me chamo Bruno Barreto! 
 - 🔭 Estou estudando há 1 ano sobre assuntos relacionados ao mundo dev!
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas!
 - 🇮🇪 No momento estou residindo na Irlanda com o objetivo de aprimorar o meu inglês!
