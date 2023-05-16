@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 
 ## Sobre mim
 
-- 💻 Tenho conhecimento em HTML, CSS, JavaScript, Python e Swift.
+- 💻 Tenho conhecimento em HTML, CSS, JavaScript, Python, Java e Swift.
 - 📚 Estou sempre buscando aprender novas tecnologias e me manter atualizado no mundo da programação.
 - 🌍 Tenho experiência em trabalhar em projetos internacionais, o que me proporcionou uma visão global do desenvolvimento de software.
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
