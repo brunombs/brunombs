@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno Barreto! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde criança. Com 25 anos, tenho uma paixão incansável por aprender e aplicar tecnologia em soluções inovadoras. Atualmente, estou morando na Irlanda, me dedicando a aprimorar meu inglês para fortalecer minhas habilidades na área de tecnologia e explorar oportunidades internacionais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde criança. Com 26 anos, tenho uma paixão incansável por aprender e aplicar tecnologia em soluções inovadoras. Atualmente, estou morando na Irlanda, me dedicando a aprimorar meu inglês para fortalecer minhas habilidades na área de tecnologia e explorar oportunidades internacionais.
 
 
 ## Sobre mim
