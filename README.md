@@ -9,7 +9,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 - 📚 Estou sempre buscando aprender novas tecnologias e me manter atualizado no mundo da programação.
 - 🌍 Tenho experiência em trabalhar em projetos internacionais, o que me proporcionou uma visão global do desenvolvimento de software.
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
-- 🇮🇪 Estou morando na Irlanda para aprimorar meu inglês e explorar oportunidades internacionais.
 
 ## Projetos
 
