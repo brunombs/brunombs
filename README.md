@@ -1,14 +1,18 @@
 ## Olá, eu sou o Bruno Barreto! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia desde criança. Com 26 anos, tenho uma paixão incansável por aprender e aplicar tecnologia em soluções inovadoras. Atualmente, estou morando na Irlanda, me dedicando a aprimorar meu inglês para fortalecer minhas habilidades na área de tecnologia e explorar oportunidades internacionais.
-
+Sou estudante de Análise e Desenvolvimento de Sistemas com uma grande paixão por tecnologia e desenvolvimento de software. Estou constantemente explorando novas tecnologias e tendências para aprimorar minhas habilidades e contribuir para projetos inovadores. Minha formação técnica e experiência em projetos diversos me permitem abordar desafios com criatividade e eficiência. 
 
 ## Sobre mim
 
-- 💻 Tenho conhecimento em HTML, CSS, JavaScript, Python, Java e Swift.
-- 📚 Estou sempre buscando aprender novas tecnologias e me manter atualizado no mundo da programação.
-- 🌍 Tenho experiência em trabalhar em projetos internacionais, o que me proporcionou uma visão global do desenvolvimento de software.
-- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
+- 💻 Conhecimento em Java, HTML, CSS, JavaScript, Python e Swift.
+- 🤝 Experiência prática em ambientes colaborativos e diversos, desenvolvendo habilidades de trabalho em equipe e adaptação cultural.
+- 📚 Sempre buscando aprender novas tecnologias e me manter atualizado no mundo da programação.
+
+## Experiências Internacionais
+
+- 🌍 Realizei intercâmbio na Irlanda por 8 meses, onde trabalhei e estudei.
+- 🇺🇸 Fiz intercâmbio nos EUA por 4 meses, desenvolvendo habilidades profissionais e aprimorando o meu conhecimento na lingua inglesa.
+- 📈 Essas experiências proporcionaram uma visão global do desenvolvimento de software e aprimoraram minha habilidade avançada em inglês.
 
 ## Projetos
 
@@ -23,6 +27,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 <li><a href = "mailto:brunocode0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
 <li><a href="https://www.linkedin.com/in/brunombarreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
 </ul>
-
-    
-    
