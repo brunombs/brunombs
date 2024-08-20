@@ -22,7 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com uma grande paixão p
 
 ## Contato
 
-- 📫 Você pode entrar em contato comigo através do meu e-mail ou das minhas redes sociais:
+- 📫 Você pode entrar em contato comigo através do meu e-mail ou do meu linkedIN:
 <ul>
 <li><a href = "mailto:brunocode0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
 <li><a href="https://www.linkedin.com/in/brunombarreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
