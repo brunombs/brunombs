@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno Barreto! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com uma grande paixão por tecnologia e desenvolvimento de software. Estou constantemente explorando novas tecnologias e tendências para aprimorar minhas habilidades e contribuir para projetos inovadores. Minha formação técnica e experiência em projetos diversos me permitem abordar desafios com criatividade e eficiência. 
+Sou estudante de Análise e Desenvolvimento de Sistemas da PUCPR com uma grande paixão por tecnologia e desenvolvimento de software. Estou constantemente explorando novas tecnologias e tendências para aprimorar minhas habilidades e contribuir para projetos inovadores. Minha formação técnica e experiência em projetos diversos me permitem abordar desafios com criatividade e eficiência. 
 
 ## Sobre mim
 
