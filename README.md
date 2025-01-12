@@ -3,6 +3,7 @@
 - Desenvolvedor Backend em formação na PUCPR, com foco principal em **Java** e **Python**. 
 - Estou sempre explorando novas tecnologias para aprimorar minhas habilidades e contribuir para projetos inovadores. 
 - Minha experiência internacional me proporcionou uma perspectiva única sobre desenvolvimento de software e trabalho em equipe multicultural.
+- Estagiário na Avantsoft.
 
 ## 🌟 Destaques
 
