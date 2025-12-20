@@ -1,33 +1,46 @@
-## 👨‍💻 Sobre Mim
+### Olá, eu sou Bruno Barreto! 👋
 
-- Desenvolvedor Backend em formação na PUCPR, com foco principal em **Java** e **Python**. 
-- Estou sempre explorando novas tecnologias para aprimorar minhas habilidades e contribuir para projetos inovadores. 
-- Minha experiência internacional me proporcionou uma perspectiva única sobre desenvolvimento de software e trabalho em equipe multicultural.
-- Estagiário na Avantsoft.
+Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas. Meu foco é o ecossistema **Java (Spring Boot)**, e utilizo meu background em infraestrutura e virtualização para construir soluções que são não apenas funcionais, mas também otimizadas para o ambiente de produção.
 
-## 🌟 Destaques
+- 🎓 **Formação:** Graduado em ADS (PUCPR) | Pós em Dev Full Stack.
+- 💻 **Foco Atual:** Java, Spring Boot, API REST e Bancos de Dados SQL.
+- 🌍 **Idiomas:** Inglês fluente (vivência nos EUA e Irlanda).
+- 🏠 **Hobby:** Home Lab (Self-hosting, Proxmox, Redes).
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas na PUCPR
-- 🌍 Experiência internacional:
-  - 🇮🇪 8 meses na Irlanda: Desenvolvimento profissional e imersão cultural
-  - 🇺🇸 4 meses nos EUA: Aperfeiçoamento técnico e fluência em inglês
-- 💡 Foco em desenvolvimento backend e arquitetura de software
-- 🤝 Experiência em metodologias ágeis e desenvolvimento colaborativo
+#### 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot, SQL (SQLite/PostgreSQL).
+- **Infra & DevOps:** Docker, CI/CD (GitHub Actions), Linux, Nginx.
+- **Ferramentas:** Git, Jira, IntelliJ IDEA.
 
-## Projetos
+#### 🚀 Projetos Recentes
 
-- 🚀 Tenho alguns projetos pessoais no GitHub, onde aplico meu conhecimento em diversas tecnologias.
-- 💼 Já participei de projetos acadêmicos e colaborativos, contribuindo com código e soluções técnicas.
-- 🔭 Estou sempre em busca de novos projetos interessantes para contribuir e aprender.
+- 💧 **[Gestão de Distribuidora](https://github.com/brunombs/sistemaLojaAgua)**
+  Sistema Desktop desenvolvido em **JavaFX e SQLite** para gestão de produtos e vendas, incluindo dashboard analítico para monitoramento de dados.
+
+- 🏢 **[Gestão de Condomínio](https://github.com/brunombs/gerenciamentoCondominio)**
+  Aplicação Web desenvolvida para gestão administrativa, emissão de boletos e relatórios mensais.
+
+- ☁️ **[Home Server Configs]**
+  Repositório com as configurações da minha infraestrutura pessoal (Infrastructure as Code). Utilizo **Proxmox** e **Docker** para hospedar serviços como Nextcloud e Jellyfin, acessíveis via VPN (Tailscale).
 
 ## Contato
 
-Estou sempre aberto a novas conexões! Você pode entrar em contato comigo através do meu e-mail ou LinkedIn:
-<ul>
-<li><a href="mailto:brunocode0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
-<li><a href="https://www.linkedin.com/in/brunombarreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
-</ul>
+Estou sempre aberto a novas conexões!
+<div align="left">
+  <a href="mailto:brunocode0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/brunombarreto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
+
+<!--
 ## Linguagens Mais Utilizadas
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunombs&layout=compact)
+-->
+
+
+
