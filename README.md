@@ -20,8 +20,8 @@ Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas
 - 🏢 **[Gestão de Condomínio](https://github.com/brunombs/gerenciamentoCondominio)**
   Aplicação Web desenvolvida para gestão administrativa, emissão de boletos e relatórios mensais.
 
-- ☁️ **[Home Server Configs]**
-  Repositório com as configurações da minha infraestrutura pessoal (Infrastructure as Code). Utilizo **Proxmox** e **Docker** para hospedar serviços como Nextcloud e Jellyfin, acessíveis via VPN (Tailscale).
+- ☁️ **[Home Server]**
+  Minha infraestrutura pessoal. Utilizo **Proxmox** e **Docker** para hospedar serviços como Nextcloud, Nginx e Jellyfin, acessíveis via VPN (Tailscale).
 
 ## Contato
 
