@@ -27,7 +27,7 @@ Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas
 
 Estou sempre aberto a novas conexões!
 <div align="left">
-  <a href="mailto:brunocode0@gmail.com">
+  <a href="mailto:brunomabarreto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/brunombarreto/" target="_blank">
