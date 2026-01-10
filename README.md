@@ -14,10 +14,10 @@ Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas
 
 #### 🚀 Projetos Recentes
 
-- 💧 **[Gestão de Distribuidora](https://github.com/brunombs/sistemaLojaAgua)**
+- 💧 **[Gestão de Distribuidora](https://github.com/bruno-lab-projects/sistemaLojaAgua)**
   Sistema Desktop desenvolvido em **JavaFX e SQLite** para gestão de produtos e vendas, incluindo dashboard analítico para monitoramento de dados.
 
-- 🏢 **[Gestão de Condomínio](https://github.com/brunombs/gerenciamentoCondominio)**
+- 🏢 **[Gestão de Condomínio](https://github.com/bruno-lab-projects/gerenciamentoCondominio)**
   Aplicação Web desenvolvida para gestão administrativa, emissão de boletos e relatórios mensais.
 
 - ☁️ **[Home Server]**
