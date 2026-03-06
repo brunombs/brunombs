@@ -25,7 +25,7 @@ Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas
 
 ## Contato
 
-Estou sempre aberto a novas conexões!
+Se conecte comigo!
 <div align="left">
   <a href="mailto:brunomabarreto@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
