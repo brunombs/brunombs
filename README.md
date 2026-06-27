@@ -1,46 +1,46 @@
-### Olá, eu sou Bruno Barreto! 👋
+# Bruno Barreto
 
-Sou **Desenvolvedor Backend** graduado em Análise e Desenvolvimento de Sistemas. Meu foco é o ecossistema **Java (Spring Boot)**, e utilizo meu background em infraestrutura e virtualização para construir soluções que são não apenas funcionais, mas também otimizadas para o ambiente de produção.
+Backend developer with a systems background that goes beyond the code — I think
+in terms of infrastructure, deployment, and production behavior from the start.
 
-- 🎓 **Formação:** Graduado em ADS (PUCPR) | Pós em Dev Full Stack.
-- 💻 **Foco Atual:** Java, Spring Boot, API REST e Bancos de Dados SQL.
-- 🌍 **Idiomas:** Inglês fluente (vivência nos EUA e Irlanda).
-- 🏠 **Hobby:** Home Lab (Self-hosting, Proxmox, Redes).
+I work with Java and Spring Boot, building REST APIs and data-driven applications.
+My background in virtualization and self-hosted infrastructure (Proxmox, Docker, Linux)
+gives me a different perspective on how software actually runs in production.
 
-#### 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot, SQL (SQLite/PostgreSQL).
-- **Infra & DevOps:** Docker, CI/CD (GitHub Actions), Linux, Nginx.
-- **Ferramentas:** Git, Jira, IntelliJ IDEA.
+**Languages:** Portuguese (native) · English (C1) · Spanish (C1)  
+**Education:** B.S. in Systems Analysis, PUCPR · Postgrad in Full Stack Development
 
-#### 🚀 Projetos Recentes
+---
 
-- 💧 **[Gestão de Distribuidora](https://github.com/bruno-lab-projects/sistemaLojaAgua)**
-  Sistema Desktop desenvolvido em **JavaFX e SQLite** para gestão de produtos e vendas, incluindo dashboard analítico para monitoramento de dados.
+## Stack
 
-- 🏢 **[Gestão de Condomínio](https://github.com/bruno-lab-projects/gerenciamentoCondominio)**
-  Aplicação Web desenvolvida para gestão administrativa, emissão de boletos e relatórios mensais.
+**Backend:** Java, Spring Boot, REST APIs, SQL (PostgreSQL, SQLite)  
+**Infra & DevOps:** Docker, Linux, Nginx, GitHub Actions  
+**Tools:** Git, IntelliJ IDEA, Jira
 
-- ☁️ **[Home Server]**
-  Minha infraestrutura pessoal. Utilizo **Proxmox** e **Docker** para hospedar serviços como Nextcloud, Nginx e Jellyfin, acessíveis via VPN (Tailscale).
+---
 
-## Contato
+## Projects
 
-Se conecte comigo!
-<div align="left">
-  <a href="mailto:brunomabarreto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/brunombarreto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+**[Distributor Management System](https://github.com/bruno-lab-projects/sistemaLojaAgua)**  
+Desktop application built with JavaFX and SQLite for product and sales management,
+with an integrated analytics dashboard.
 
+**[Condominium Management System](https://github.com/bruno-lab-projects/gerenciamentoCondominio)**  
+Web application for administrative management, invoice generation, and monthly reporting.
 
-<!--
-## Linguagens Mais Utilizadas
+**Home Server**  
+Personal infrastructure running on Proxmox and Docker. Self-hosted services include
+Nextcloud, Jellyfin, and Nginx, accessible remotely via Tailscale.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunombs&layout=compact)
--->
+---
 
 
+## Contact
 
+<a href="https://www.linkedin.com/in/brunombarreto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:brunomabarreto@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
