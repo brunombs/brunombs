@@ -22,11 +22,11 @@ gives me a different perspective on how software actually runs in production.
 
 ## Projects
 
-**[Distributor Management System](https://github.com/bruno-lab-projects/sistemaLojaAgua)**  
+**[Distributor Management System](https://github.com/projects-bruno/sistemaLojaAgua)**  
 Desktop application built with JavaFX and SQLite for product and sales management,
 with an integrated analytics dashboard.
 
-**[Condominium Management System](https://github.com/bruno-lab-projects/gerenciamentoCondominio)**  
+**[Condominium Management System](https://github.com/projects-bruno/gerenciamentoCondominio)**  
 Web application for administrative management, invoice generation, and monthly reporting.
 
 **Home Server**  
