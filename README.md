@@ -16,7 +16,6 @@ gives me a different perspective on how software actually runs in production.
 
 **Backend:** Java, Spring Boot, REST APIs, SQL (PostgreSQL, SQLite)  
 **Infra & DevOps:** Docker, Linux, Nginx, GitHub Actions  
-**Tools:** Git, IntelliJ IDEA, Jira
 
 ---
 
